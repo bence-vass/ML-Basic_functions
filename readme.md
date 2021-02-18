@@ -1,3 +1,3 @@
 # Machine Learning Functions:
 
-- [Reverse mode automatic differentiation](/blob/master/reverse_autodiff.py)
+- [Reverse mode automatic differentiation](/reverse_autodiff.py)
